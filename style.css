@@ -124,6 +124,11 @@ a {
     border: solid #fb6e5b 20px;
     z-index: 50;
     position: relative;
+    transition: transform 0.5s ease;
+}
+
+.home-img-container:hover{
+    transform:scale(1.2);
 }
 
 .profile-img {
@@ -360,5 +365,6 @@ a {
     .service-level{
         gap: 15px;
     }
+
 
 }
