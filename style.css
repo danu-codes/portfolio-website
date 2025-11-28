@@ -128,7 +128,7 @@ a {
 }
 
 .home-img-container:hover{
-    transform:scale(0.5);
+    transform:scale(1.0);
 }
 
 .profile-img {
@@ -368,6 +368,7 @@ a {
 
 
 }
+
 
 
 
